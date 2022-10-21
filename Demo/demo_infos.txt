@@ -1,0 +1,7 @@
+Vidéo qui montre une application de l’outil trajectoire caméra sur une scène de forêt.
+
+Scene Nature:
+https://assetstore.unity.com/packages/3d/vegetation/forest-environment-dynamic-nature-150668
+
+Chanson :
+https://www.youtube.com/watch?v=9GvKfvDt5T8
